@@ -8,9 +8,9 @@ export default function Navbar() {
 
       </div>
       <ul className="flex gap-6">
-        <li><a href="/" className="hover:underline">Home</a></li>
-        <li><a href="/" className="hover:underline">About</a></li>
-        <li><a href="/" className="hover:underline">Contact</a></li>
+        <li><a href="https://www.fixifylabs.com" className="hover:underline">Home</a></li>
+        <li><a href="https://www.fixifylabs.com" className="hover:underline">About</a></li>
+        <li><a href="https://www.fixifylabs.com" className="hover:underline">Contact</a></li>
       </ul>
     </nav>
   );
